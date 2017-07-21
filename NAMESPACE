@@ -1,0 +1,6 @@
+export(EM.qr)
+export(diag.qr)
+import(HyperbolicDist)
+importFrom("graphics", "par", "plot")
+importFrom("stats", "coefficients", "lm", "ppoints", "qexp", "quantile", "rexp")
+import(sn)

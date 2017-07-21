@@ -1,0 +1,14 @@
+Package: ALDqr
+Version: 1.0
+Date: 2017-01-20
+Title: Quantile Regression Using Asymmetric Laplace Distribution
+Author: Luis Benites Sanchez, Christian E. Galarza, Victor H. Lachos 
+Maintainer: Luis Benites Sanchez <lbenitesanchez@gmail.com>
+Depends: R (>= 2.15.0)
+Imports: HyperbolicDist, sn
+Description: EM algorithm for estimation of parameters and other methods in a quantile regression. 
+License: GPL (>= 3.0)
+NeedsCompilation: no
+Packaged: 2017-01-21 10:50:45 UTC; rmaehara
+Repository: CRAN
+Date/Publication: 2017-01-22 17:20:00

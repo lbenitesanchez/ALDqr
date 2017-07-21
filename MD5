@@ -1,0 +1,9 @@
+396e6d048a7d8f3f9d8ded241c7c8c76 *DESCRIPTION
+7f6d91df85376a038520da81ba04a8a7 *NAMESPACE
+130471db4ba307013d47805bdbaa82f8 *R/EM.qr.r
+01e40924607a6c1edcd5abdedbf67fa0 *R/diag.qr.r
+41e7f87fb96c2d6278a1630bf90c215f *data/ais.txt.gz
+e7cd778c3fdc89f9786e550c61387d37 *data/datalist
+1fa5169a7b374954823f3a3f3764cb2d *man/EM.qr.Rd
+34a259c44ee9bd73e6cd455b78fa677f *man/ais.Rd
+e586ae7e718e3828e583f000185d3148 *man/diag.qr.Rd
